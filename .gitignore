@@ -1,0 +1,5 @@
+cdk/node_modules
+cdk/.cdk.staging
+cdk/cdk.out
+cdk/package-lock.json
+cdk/cdk.context.json
